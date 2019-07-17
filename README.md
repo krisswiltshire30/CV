@@ -18,9 +18,22 @@ I am blogging about my experience at Makers Academy [here](https://medium.com/@k
 |---        |---          |---           |---      |
 |           |             |              |         |
 
+#### Anglia Ruskin University (Sep '10 - Oct '13)
 
+- Creative Music Technology
+- 2:1
+
+#### Microsoft MTA Certificates:
+
+- 98-366: MTA: Networking Fundamentals
+- 98-365: MTA: Windows Server Admin
+- 98-367: MTA: Security Fundamentals
 
 #### Other Qualifications
+
+- ITIL Foundation Certificate
+- Apple Certified Technician
+- JAMF - Certified Casper Technician
 
 
 ## Achievements
