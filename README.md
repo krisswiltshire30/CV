@@ -17,6 +17,8 @@ I am blogging about my experience at Makers Academy [here](https://medium.com/@k
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
 |           |             |              |         |
+|           |             |              |         |
+|           |             |              |         |
 
 #### Anglia Ruskin University (Sep '10 - Oct '13)
 
@@ -37,17 +39,17 @@ I am blogging about my experience at Makers Academy [here](https://medium.com/@k
 
 ## Achievements
 
-|  Ran a lunchtime club teaching kids basic code  |
-|  Composed all music and sound design for popular steam game **Golf with Your Friends** (http://
-store.steampowered.com/app/431240/ )  |
-|  Created the music and sound design for **Service Movement Desire**, a charity film which was premiered
-to 200 people at the Arts Picture House in cambridge. (www.cambridgekickstart.com). |
-|  Successfully created music and sound for 16+ groups during a games jam, given a time constraint of
-only 48 hours, 2 years in a row. (www.creativefront.org/brainseden)  |
-|  Composed the musical accompaniment to all product adverts for SureFlap Innovations. The adverts
-have been played worldwide in various pet conventions (www.sureflap.com)  |
-|  Learnt to play guitar, without tuition, from a young age. Successfully tutored a student to play guitar
-confidently in front of an audience  |
+- Ran a lunchtime club teaching kids basic code  
+- Composed all music and sound design for popular steam game **Golf with Your Friends** [http://
+store.steampowered.com/app/431240/]
+- Created the music and sound design for **Service Movement Desire**, a charity film which was premiered
+to 200 people at the Arts Picture House in cambridge. [www.cambridgekickstart.com]
+- Successfully created music and sound for 16+ groups during a games jam, given a time constraint of
+only 48 hours, 2 years in a row. [www.creativefront.org/brainseden]
+- Composed the musical accompaniment to all product adverts for **SureFlap Innovations**. The adverts
+have been played worldwide in various pet conventions [www.sureflap.com]
+- Learnt to play guitar, without tuition, from a young age. Successfully tutored a student to play guitar
+confidently in front of an audience
 
 ## Experience
 
@@ -61,3 +63,8 @@ confidently in front of an audience  |
 *ICT Technician*  
 
 ## Hobbies and Interests
+**Circuit Bending** : I enjoy taking electronic devices apart and rewiring them to make interesting sounds
+**Guitar** : Nothing better than loosing yourself in a groove after a hard days coding
+**Cinema** : Big lover of obscure cinema
+**Food** : I make the best carbonara this side of Italy
+**Beer** : I'm the one that has something different every round
