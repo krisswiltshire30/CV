@@ -1,5 +1,5 @@
 ## Kriss Wiltshire
-
+[Skills](#skills) | [Education](#education) | [Achievements](#achievements) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 I am a highly motivated individual with a thirst for knowledge, currently looking to further my professional career. I have excellent people skills as well as technical support experience.
 
 After working as an IT support professional for 7 years I have decided to change my career path in search of a new challenge that will utilise my tech knowledge, meticulous attention to detail, and friendly, professional manner.
@@ -11,14 +11,18 @@ After working as an IT support professional for 7 years I have decided to change
 ## Education
 
 #### Makers Academy (Jul '19 - Oct '19)
-
-I am blogging about my experience at Makers Academy [here](https://medium.com/@kriss.wiltshire)
-
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
 |           |             |              |         |
 |           |             |              |         |
 |           |             |              |         |
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+I am blogging about my experience at Makers Academy [here](https://medium.com/@kriss.wiltshire)
 
 #### Anglia Ruskin University (Sep '10 - Oct '13)
 
@@ -63,8 +67,8 @@ confidently in front of an audience
 *ICT Technician*  
 
 ## Hobbies and Interests
-**Circuit Bending** : I enjoy taking electronic devices apart and rewiring them to make interesting sounds
-**Guitar** : Nothing better than loosing yourself in a groove after a hard days coding
-**Cinema** : Big lover of obscure cinema
-**Food** : I make the best carbonara this side of Italy
-**Beer** : I'm the one that has something different every round
+- **Circuit Bending** : I enjoy taking electronic devices apart and rewiring them to make interesting sounds
+- **Guitar** : Nothing better than loosing yourself in a groove after a hard days coding
+- **Cinema** : Big lover of obscure cinema
+- **Food** : I make the best carbonara this side of Italy
+- **Beer** : I'm the one that has something different every round
