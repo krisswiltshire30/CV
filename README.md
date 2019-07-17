@@ -35,11 +35,29 @@ I am blogging about my experience at Makers Academy [here](https://medium.com/@k
 - Apple Certified Technician
 - JAMF - Certified Casper Technician
 
-
 ## Achievements
 
+|  Ran a lunchtime club teaching kids basic code  |
+|  Composed all music and sound design for popular steam game **Golf with Your Friends** (http://
+store.steampowered.com/app/431240/ )  |
+|  Created the music and sound design for **Service Movement Desire**, a charity film which was premiered
+to 200 people at the Arts Picture House in cambridge. (www.cambridgekickstart.com). |
+|  Successfully created music and sound for 16+ groups during a games jam, given a time constraint of
+only 48 hours, 2 years in a row. (www.creativefront.org/brainseden)  |
+|  Composed the musical accompaniment to all product adverts for SureFlap Innovations. The adverts
+have been played worldwide in various pet conventions (www.sureflap.com)  |
+|  Learnt to play guitar, without tuition, from a young age. Successfully tutored a student to play guitar
+confidently in front of an audience  |
 
 ## Experience
 
+**Omnicom Group** (Jan '19 - April '19)    
+*Hybrid Support Engineer*  
+**Science UK ltd** (Oct '17 - Dec '18)    
+*IT Consultant*  
+**Arcadia Group** (Oct '15 - Oct '17)    
+*Senior IT Support Specialist*  
+**Charles Darwin School** (Sep '13 - Oct '15)    
+*ICT Technician*  
 
 ## Hobbies and Interests
