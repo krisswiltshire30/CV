@@ -2,11 +2,18 @@
 
 **Highly motivated and creative individual with a thirst for knowledge, excellent people skills as well as years of technical support experience. Currently looking to be part of something big.**
 
-## ( [Profile](#profile) || [Skills](#skills) || [Education](#education) || [Experience](#experience) || [Achievements](#achievements) || [Hobbies](#hobbies) )
+## ( [Profile](#profile) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Achievements](#achievements) | [Hobbies](#hobbies) )
 
 ## Profile
 
 After working as an IT support professional for 7 years, I have decided to change my career path in search of a new challenge that will utilise my tech knowledge, meticulous attention to detail, and friendly, professional manner. I am the kind of person that likes to tinker, open up electric devices to see how they work and attempt to make them better, or at least make it do something it wasn't designed to do in the first place. The mindset of diving into something to see how it works is the reason I enjoy coding.
+
+## Projects
+| Project | Description                                                                  | Latest deployment                                             | Stack                                                                                                          |
+|---------|------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Syne    | An audio visualiser created by using the<br>  web audio api and Three.js.    | [Syne](https://syne.herokuapp.com)<br> *Works best in firefox | Javascript, HTML, CSS,<br> Karma, ESlint, THREE.js,<br> Node.js, DAT.gui, Heroku,<br> Travis CI, Web Audio API |
+| Icicle  | A JavaScript testing infrastructure,  based on RSpec and Jasmine.            | N/A                                                           | JavaScript,<br> HTML,<br> CSS                                                                                  |
+| Acebook | A clone of facebook using Ruby on rails.                                                          | [Acebook](https://acebook-fantastic-four.herokuapp.com)       | Ruby, Rails, RuboCop,<br> RSpec, Capybara, Simplecov                                                          |
 
 ## Skills
 
