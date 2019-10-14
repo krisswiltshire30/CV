@@ -12,18 +12,20 @@ After working as an IT support professional for 7 years, I have decided to chang
 
 #### Team Player
 
-To be completed
 
 #### Problem-solving
 
-To be completed
+TODO
+
+#### Documentation
+TODO
+
 
 #### Software Skills
 - Jamf
 - Mobile Iron
 - Active Directory
-- VMware
-- Hyper-V
+- VMware & vSphere
 - WWise
 - Windows Server 2003/10
 - Supercollider
