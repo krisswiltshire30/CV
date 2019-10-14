@@ -80,19 +80,15 @@ Follow my journey with Makers Academy [here](https://medium.com/@kriss.wiltshire
 
 **Omnicom Group** (Jan '19 - April '19)    
 *Hybrid Support Engineer*
-- **Responsibilities** - 2nd Line Support, Troubleshooting, Mac Support, Audio visual setups, Network configuration, Computer build configurations.
 
 **Science UK ltd** (Oct '17 - Dec '18)    
 *IT Consultant*
-- **Responsibilities** - Project management, Supplier management, 24hr Executive Support, 2nd Line Support, Exchange admin, Systems audits, Procurement, Printer management, Backup procedures, Software deployment, Server management, Network configuration, Asset management.
 
 **Arcadia Group** (Oct '15 - Oct '17)    
 *Senior IT Support Specialist*
-- **Responsibilities** - 3rd Line Support, 2nd Line Support, Troubleshooting, Mac Support, Executive Support, Mobile device setup, Audio visual setups, Management of regional store and office assets, Print server management, Backup procedures, Software deployment, Server management, Network configuration, Asset register management, Helpdesk operative, Citrix sessions, Virtual desktop support.
 
 **Charles Darwin School** (Sep '13 - Oct '15)    
 *ICT Technician*
-- **Responsibilities** - 2nd Line Support, Troubleshooting, Mac Support, Active Directory, Audio visual setups, Print server management, Backup procedures, Network configuration, Student support.
 
 ## Achievements
 
