@@ -4,7 +4,7 @@
 
 ## ( [Profile](#profile) || [Skills](#skills) || [Education](#education) || [Experience](#experience) || [Achievements](#achievements) || [Hobbies](#hobbies) )
 
-##Profile
+## Profile
 
 After working as an IT support professional for 7 years, I have decided to change my career path in search of a new challenge that will utilise my tech knowledge, meticulous attention to detail, and friendly, professional manner. I am the kind of person that likes to tinker, open up electric devices to see how they work and attempt to make them better, or at least make it do something it wasn't designed to do in the first place. The mindset of diving into something to see how it works is the reason I enjoy coding.
 
