@@ -22,7 +22,7 @@ From my time at makers acadamy I have actioned the tools I have learnt to be a g
 I very much enjoy the challange of a good problem. My past career as an IT engineer meant that I was always finding new solutions to old and new problems. I take a problem, disect it into its core components and work through it granularly, taking the causes and effects and create a fix that is well documented and easy to explain.
 
 #### Documenter
-Taking information about a project and creating clear concise documentation is a point of pride for me. Be it in the form of a well written readme, or a wiki page outlining our process for a project, or taking the minutes of a team meeting.
+Taking information about a project and creating clear concise documentation is a point of pride for me. Be it in the form of a well written readme, a wiki page outlining our process for a project, or taking the minutes of a team meeting.
 
 #### Knowledge sharer
 I find knowledge sharing to be one of the most important aspects of working in a great team. From working in teams at makers, to my past career, I have found that one person holding all the information can expose a single point of failure. Not only does knowledge sharing allow a team to all be  on the same level, but sharing what you have learnt can help consolidate your understanding.
