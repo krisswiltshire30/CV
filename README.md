@@ -16,7 +16,7 @@ After working as an IT support professional for 6 years, I have decided to chang
 ## Skills
 
 #### Team Player
-From my time at makers acadamy I have actioned the tools I have learnt to be a great team member. From being empathetic to other members, giving non biased feedback, and implementing ways of making the team work better together. In one of our teams, we had a lot of strong personalities which meant a lot of cross talk. To combat this I implemented the 'frog' method, meaning that whoever held the toy frog could speak and not be spoken over. I am not the type of person to talk over other people and will always let someone have their say.
+From my time at Makers Academy I have actioned the tools I have learnt to be a great team member. From being empathetic to other members, giving non biased feedback, and implementing ways of making the team work better together. In one of our teams, we had a lot of strong personalities which meant a lot of cross talk. To combat this I implemented the 'frog' method, meaning that whoever held the toy frog could speak and not be spoken over. I am not the type of person to talk over other people and will always let someone have their say.
 
 #### Problem solver
 I very much enjoy the challange of a good problem. My past career as an IT engineer meant that I was always finding new solutions to old and new problems. I take a problem, disect it into its core components and work through it granularly, taking the causes and effects and create a fix that is well documented and easy to explain.
@@ -25,7 +25,7 @@ I very much enjoy the challange of a good problem. My past career as an IT engin
 Taking information about a project and creating clear concise documentation is a point of pride for me. Be it in the form of a well written readme, a wiki page outlining our process for a project, or taking the minutes of a team meeting.
 
 #### Knowledge sharer
-I find knowledge sharing to be one of the most important aspects of working in a great team. From working in teams at makers, to my past career, I have found that one person holding all the information can expose a single point of failure. Not only does knowledge sharing allow a team to all be  on the same level, but sharing what you have learnt can help consolidate your understanding.
+I find knowledge sharing to be one of the most important aspects of working in a great team. From working in teams at Makers, to my past career, I have found that one person holding all the information can expose a single point of failure. Not only does knowledge sharing allow a team to all be  on the same level, but sharing what you have learnt can help consolidate your understanding.
 
 ## Education
 
