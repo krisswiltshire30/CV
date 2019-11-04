@@ -1,3 +1,6 @@
+<p align="right"><a href="https://github.com/krisswiltshire30"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="medium" hspace="10" height="42" width="42" ></a>
+<a href="https://www.linkedin.com/in/kriss-wiltshire/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="10" height="45" width="45"></a></p>
+
 ## Kriss Wiltshire
 
 **Highly motivated and creative individual with a thirst for knowledge, excellent people skills as well as years of technical support experience. Currently looking to be part of something big.**
