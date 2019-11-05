@@ -7,21 +7,15 @@
 
 ( [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Achievements](#achievements) | [Hobbies](#hobbies) )
 
-After working as an IT support professional for 6 years, I have decided to move my career path in the direction of software . I am the kind of person that likes to tinker, open up electric devices to see how they work and attempt to make them better, or at least make it do something it wasn't designed to do in the first place. The mindset of diving into something to see how it works is the reason I enjoy coding.
+After working as an IT support professional for 6 years, I have decided to move my career path in the direction of software development. I am the kind of person that likes to tinker, open up electric devices to see how they work and attempt to make them better, or at least make it do something it wasn't designed to do in the first place. The mindset of diving into something to see how it works is the reason I enjoy coding.
 
 ## Experience
-
-**Omnicom Group** (Jan '19 - April '19)    
-*Hybrid Support Engineer*
-
-**Science UK ltd** (Oct '17 - Dec '18)    
-*IT Consultant*
-
-**Arcadia Group** (Oct '15 - Oct '17)    
-*Senior IT Support Specialist*
-
-**Charles Darwin School** (Sep '13 - Oct '15)    
-*ICT Technician*
+| Position                                                                     | Responsibilities                                                                                                                                                                                                                                          |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Omnicom Group**<br> *Hybrid Support Engineer*<br> (Jan '19 - April '19)    | 1st / 2nd Line Support, Build deployment, Systems audits,<br> Audio visual setups, Software deployment, Server management,<br> Network managment, Asset management, Helpdesk operative, Knowledge base Management.                                        |
+| **Science UK ltd**<br> *IT Consultant*<br> (Oct '17 - Dec '18)               | Executive Support, 1st / 2nd Line Support, Exchange admin,<br> Systems audits,Audio visual setups, Printer management,<br> Software deployment, Server management,Network managment,<br> Asset management, Helpdesk operative, Knowledge base Management. |
+| **Arcadia Group**<br> *IT Support Specialist*<br> (Oct '15 - Oct '17) | OS X Specialist, Audio visual setups, Print server management,<br> Backup procedures, Software deployment, Server management,<br> Network configuration, Asset register management,<br> Helpdesk operative, Knowledge base Management.                    |
+| **Charles Darwin School**<br> *ICT Technician*<br> (Sep '13 - Oct '15)       | Management of 700+,Windows Computers, OS X Specialist,<br> Audio visual setups, Print server management, Backup procedures,<br> Software deployment, Server management, Network configuration                                                             |
 
 ## Projects
 | Project | Description                                                                  | Latest deployment                                             | Stack                                                                                                          |
