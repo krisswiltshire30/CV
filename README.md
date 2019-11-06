@@ -62,6 +62,7 @@ From my time at Makers Acadamy I have actioned the tools I have learnt to be a g
 #### Problem solver
 I very much enjoy the challange of a good problem. My past career as an IT engineer meant that I was always finding new solutions to old and new problems. I take a problem, disect it into its core components and work through it granularly, taking the causes and effects and create a fix that is well documented and easy to explain.
 
+
 #### Documenter
 Taking information about a project and creating clear concise documentation is a point of pride for me. Be it in the form of a well written readme, a wiki page outlining our process for a project, or taking the minutes of a team meeting.
 
